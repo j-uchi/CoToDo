@@ -35,6 +35,4 @@ class MainActivity : AppCompatActivity() {
             else -> super.onOptionsItemSelected(item)
         }
     }
-
-    //コメントを追加したコミットだよ
 }
